@@ -1,0 +1,1 @@
+# coding-ninja-asset-test-problem-2
